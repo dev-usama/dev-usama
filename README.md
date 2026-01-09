@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Usama
+👋 Hi, I’m Usama
 
-Welcome to my GitHub!  
-I build **Real-time web applications** and **Machine learning solutions** focused on solving business and environmental problems.
+I build real-time web applications and machine learning solutions that solve real-world business and environmental problems.
 
-## 🛠 Tech Stack
-Python, JavaScript, Node.js, React, Flutter, TensorFlow, Hugging Face, Scikit-learn, & more.
+🛠 Tech Stack
 
-## 🎯 Expertise
-WebRTC • Natural Language Processing • WebSockets
+Languages: Python, JavaScript, & Java
+
+Backend: Node.js, Flask, or Django
+
+Frontend: React, Flutter
+
+ML/AI: TensorFlow, Hugging Face, Scikit-learn
+
+🎯 Core Expertise
+
+WebRTC • NLP • WebSockets
