@@ -1,8 +1,8 @@
-👋 ## Hi, I’m Usama
+## 👋 Hi, I’m Usama
 
 I build real-time web applications and machine learning solutions that solve real-world business and environmental problems.
 
-🛠 ## Tech Stack
+## 🛠 Tech Stack
 
 Languages: Python, JavaScript, & Java
 
@@ -12,6 +12,6 @@ Frontend: React, Flutter
 
 ML/AI: TensorFlow, Hugging Face, Scikit-learn
 
-🎯 ## Core Expertise
+## 🎯 Core Expertise
 
 WebRTC • NLP • WebSockets
