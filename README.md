@@ -6,9 +6,9 @@ I build real-time web applications and machine learning solutions that solve bus
 
 Languages: Python, JavaScript, & Java
 
-Backend: Node.js, Flask, or Django
+Backend: Node.js, Flask, & Django
 
-Frontend: React, Flutter
+Frontend: React & Flutter
 
 ML/AI: TensorFlow, Hugging Face, Scikit-learn
 
