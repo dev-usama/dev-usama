@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Usama
 
-I build real-time web applications and machine learning solutions that solve real-world business and environmental problems.
+I build real-time web applications and machine learning solutions that solve business and environmental problems.
 
 ## 🛠 Tech Stack
 
