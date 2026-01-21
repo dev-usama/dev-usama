@@ -10,7 +10,7 @@ Backend: Node.js, Flask, & Django
 
 Frontend: React & Flutter
 
-ML/AI: TensorFlow, Hugging Face, Scikit-learn
+ML/AI: TensorFlow, Hugging Face, & Scikit-learn
 
 ## 🎯 Core Expertise
 
