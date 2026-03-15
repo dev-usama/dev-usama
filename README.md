@@ -4,7 +4,7 @@ I build real-time web applications and machine learning solutions that solve bus
 
 ## 🛠 Tech Stack
 
-Languages: Python, JavaScript, & Java
+Languages: Python, JavaScript, & Dart
 
 Backend: Node.js, Flask, & Django
 
