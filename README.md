@@ -1,6 +1,5 @@
-## <div align="center">👋 Hi, I’m Usama Ahmed</div>
+## 👋 Hi, I’m Usama Ahmed
 
-## 💫 About Me
 I build real-time web applications and machine learning solutions that solve business and environmental problems.
 
 ## 🛠 Tech Stack
