@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Usama Ahmed
+## 👋 Hi, I’m Usama
 
 I build real-time web applications and machine learning solutions that solve business and environmental problems.
 
