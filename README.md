@@ -13,4 +13,4 @@ Frontend: React & Flutter
 ML/AI: TensorFlow, Hugging Face, & Scikit-learn
 
 ## 🎯 Core Expertise
-Natural Language Processing | Backend Engineering
+Natural Language Processing | Backend Engineering | Real-time Systems
