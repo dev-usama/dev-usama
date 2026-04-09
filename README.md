@@ -4,13 +4,13 @@ I build real-time web applications and machine learning solutions that solve bus
 
 ## 🛠 Tech Stack
 
-Languages: Python, JavaScript, & Dart
+Languages: Python & JavaScript
 
-Backend: Node.js, Flask, & Django
+Backend: Node.js & Flask
 
-Frontend: React & Flutter
+Frontend: React
 
-ML/AI: TensorFlow, Hugging Face, & Scikit-learn
+ML/AI: TensorFlow/Pytorch, Hugging Face, & Scikit-learn
 
 ## 🎯 Core Expertise
 Natural Language Processing | Backend Engineering | Real-time Systems
