@@ -6,7 +6,7 @@ I build real-time web applications and machine learning solutions that solve bus
 
 Languages: Python & JavaScript
 
-Backend: Node.js & Flask
+Backend: Node.js, Flask, & FastAPI
 
 Frontend: React
 
