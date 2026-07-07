@@ -13,4 +13,4 @@ Frontend: React
 ML/AI: TensorFlow/Pytorch, Hugging Face, & Scikit-learn
 
 ## 🎯 Core Expertise
-Natural Language Processing | Backend Engineering | Real-time Systems
+Backend Engineering | System Design | Real-time Systems
